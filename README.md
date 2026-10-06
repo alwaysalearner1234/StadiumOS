@@ -6,7 +6,7 @@ StadiumOS AI brings two views into one web app: a **Fan Hub** that helps attende
 
 > The demo is set at **MetLife Stadium (NY/NJ)** with a live-match scenario (USA vs England).
 
-🔗 **Live demo:** `<add your Firebase hosting URL here>`
+🔗 **Live demo:** `https://alwaysalearner1234.github.io/StadiumOS/`
 
 ---
 
